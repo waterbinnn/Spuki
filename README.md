@@ -8,8 +8,7 @@ A desktop speaker for macOS that puts a system-wide EQ on everything your Mac pl
 
 ## 내려받기 · Download
 
-- **[Spuki.dmg](https://github.com/waterbinnn/spuki/releases/latest/download/Spuki.dmg)** (macOS 15 이상, Apple Silicon)
-- 설치 방법 · How to install: https://waterbinnn.github.io/spuki/#install
+- **[웹사이트에서 내려받기 · Download from the website](https://waterbinnn.github.io/spuki/#install)** (macOS 15 이상, Apple Silicon)
 - 모든 버전 · All versions: [Releases](https://github.com/waterbinnn/spuki/releases)
 
 ## 문의 · Feedback
