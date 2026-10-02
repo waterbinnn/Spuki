@@ -1,6 +1,6 @@
 # Spuki
 
-A desktop speaker for macOS that puts a system-wide EQ on your Mac plays.
+A desktop speaker for macOS that puts a system-wide EQ on everything your Mac plays.
 
 https://spuki.app/
 
